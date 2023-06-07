@@ -2,8 +2,8 @@
 
 <h3>💻 GitHub Stats:</h3>
 <div ><br>
-  <img width="35%" src="https://github-readme-stats.vercel.app/api?username=AlyneMatos&show_icons=true&theme=dracula">
-  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlyneMatos&layout=compact&theme=dracula">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=AlyneMatos&show_icons=true&theme=dracula">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlyneMatos&layout=compact&theme=dracula">
 </div>
 
 ##
