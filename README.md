@@ -3,11 +3,11 @@
 <h3>💻 GitHub Stats:</h3>
 <div ><br>
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=AlyneMatos&show_icons=true&theme=dracula">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlyneMatos&layout=compact&theme=dracula">
+  <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlyneMatos&layout=compact&theme=dracula">
 </div>
 
 ##
-
+<h3>💻 Stacks:</h3>
 <div style="display: inline_block"><br>
   <img align="center" alt="Alyne-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Alyne-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
