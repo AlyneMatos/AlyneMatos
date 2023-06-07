@@ -1,5 +1,6 @@
  ## Oii! Eu sou Alyne Matos!
- 
+
+<h3>💻 GitHub Stats:</h3>
 <div ><br>
   <img width="35%" src="https://github-readme-stats.vercel.app/api?username=AlyneMatos&show_icons=true&theme=dracula">
   <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlyneMatos&layout=compact&theme=dracula">
@@ -14,7 +15,9 @@
   <img align="center" alt="Alyne-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Alyne-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   <img align="center" alt="Alyne-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />   
-  <img align="center" alt="Alyne-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />          
+  <img align="center" alt="Alyne-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  <img align="center" alt="Alyne-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="center" alt="Alyne-github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 </div>
 
 ##
