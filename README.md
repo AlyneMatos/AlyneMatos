@@ -3,7 +3,7 @@
 <h3>💻 GitHub Stats:</h3>
 <div ><br>
   <img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AlyneMatos&show_icons=true&theme=dracula">
-  <img width="30%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AlyneMatos&layout=compact&theme=dracula">
+  <img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AlyneMatos&layout=compact&theme=dracula">
 </div>
 
 ##
