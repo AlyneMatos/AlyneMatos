@@ -1,6 +1,8 @@
- ## Oii! Eu sou Alyne Matos!
+ ## 👋 Olá, sou Alyne Matos!
 
-<h3>💻 GitHub Stats:</h3>
+ Sou estudante de Ciência da Computação, apaixonado por explorar e aprender sobre tecnologias inovadoras. Atualmente, estou focada no desenvolvimento utilizando Angular e Spring.
+
+<h3>📊 GitHub Stats:</h3>
 <div ><br>
   <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AlyneMatos&show_icons=true&theme=dracula">
   <img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AlyneMatos&layout=compact&theme=dracula">
