@@ -2,7 +2,9 @@
  
  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="200px" max-width="200px" width="200px" align="right" alt="Computador iuriCode">
  
- <p>Sou estudante de Ciência da Computação, apaixonada por explorar e aprender sobre tecnologias inovadoras. Atualmente, estou focada no desenvolvimento utilizando Angular e Spring.</p>
+ <p>🇧🇷 Sou estudante de Ciência da Computação, curiosa por tecnologia. Atualmente, estudando desenvolvimento web utilizando Angular e Spring. </p>
+
+ <p>🇺🇸 I am a Computer Science student, curious about technology. Currently, I am studying web development using Angular and Spring.</p>
 
 ##
 
