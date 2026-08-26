@@ -7,14 +7,6 @@
  <p>🇺🇸 I am a Computer Science student, curious about technology. Currently, I am studying web development using Angular and Spring.</p>
 
 ##
-
-<h3>📊 GitHub Stats:</h3>
-<div ><br>
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AlyneMatos&show_icons=true&theme=dracula">
-  <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AlyneMatos&layout=compact&theme=dracula">
-</div>
-
-##
 <h3>💻 Stacks:</h3>
 <div style="display: inline_block"><br>
   <img align="center" alt="Alyne-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
